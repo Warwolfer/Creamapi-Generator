@@ -1,0 +1,4 @@
+E:\Kenny\Tools\CreamAPI Generator\obj\Debug\CreamAPI Generator.csprojAssemblyReference.cache
+E:\Kenny\Tools\CreamAPI Generator\obj\Debug\CreamAPI_Generator.Form.resources
+E:\Kenny\Tools\CreamAPI Generator\obj\Debug\CreamAPI_Generator.Properties.Resources.resources
+E:\Kenny\Tools\CreamAPI Generator\obj\Debug\CreamAPI Generator.csproj.GenerateResource.cache

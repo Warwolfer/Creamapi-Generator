@@ -1,0 +1,18 @@
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI_Generator.Form.resources
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI_Generator.Properties.Resources.resources
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.csproj.GenerateResource.cache
+E:\Kenny\Tools\CreamAPI Generator\bin\Release\CreamAPI Generator.exe.config
+E:\Kenny\Tools\CreamAPI Generator\bin\Release\CreamAPI Generator.exe.manifest
+E:\Kenny\Tools\CreamAPI Generator\bin\Release\CreamAPI Generator.application
+E:\Kenny\Tools\CreamAPI Generator\bin\Release\CreamAPI Generator.exe
+E:\Kenny\Tools\CreamAPI Generator\bin\Release\CreamAPI Generator.pdb
+E:\Kenny\Tools\CreamAPI Generator\bin\Release\Newtonsoft.Json.dll
+E:\Kenny\Tools\CreamAPI Generator\bin\Release\Newtonsoft.Json.xml
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.csproj.CoreCompileInputs.cache
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.TrustInfo.xml
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.exe.manifest
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.application
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.csproj.CopyComplete
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.exe
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.pdb
+E:\Kenny\Tools\CreamAPI Generator\obj\Release\CreamAPI Generator.csprojAssemblyReference.cache
